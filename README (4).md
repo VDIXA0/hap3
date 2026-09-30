@@ -94,9 +94,6 @@ python3 hap3.py
 
 ---
 
-## 🔥 **FSociety 353 - Stay Anonymous!** 🚀  
-👤 **GitHub:** [FSociety353](https://github.com/FSociety353)  
-📢 **Hacking is an Art – Use it Wisely!**  
 
 ---
 
