@@ -4,7 +4,7 @@ Save this as **README.md** inside your project folder:
 
 # **Hap3 - OSINT & Security Scanner** 🔥  
 
-**Author:** FSociety 353  
+
 
 Hap3 is a powerful **OSINT (Open-Source Intelligence)** and **Security Scanner** tool designed for penetration testers, ethical hackers, and cybersecurity researchers. It can gather information about domains, IP addresses, websites, and open ports, along with potential vulnerabilities.  
 
